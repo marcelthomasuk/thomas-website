@@ -2,6 +2,7 @@
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "thomas-website",
   "compatibility_date": "2026-09-28",
+  "routes": [{ "pattern": "thomas.tech", "custom_domain": true }],
   "assets": {
     "directory": "./dist",
     // Client-side routes like /story fall back to index.html.
