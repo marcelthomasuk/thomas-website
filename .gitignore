@@ -28,3 +28,4 @@ dist-ssr
 .env*
 !.env.example
 !.env.sentry-triage.example
+.wrangler
