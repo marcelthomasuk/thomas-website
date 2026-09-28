@@ -23,3 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 *.tsbuildinfo
+
+# env
+.env*
+!.env.example
+!.env.sentry-triage.example
