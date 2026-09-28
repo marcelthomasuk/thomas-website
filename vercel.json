@@ -1,0 +1,9 @@
+{
+  "regions": ["lhr1"],
+  "rewrites": [
+    {
+      "source": "(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
